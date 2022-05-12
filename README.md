@@ -25,7 +25,7 @@ Connect With Me At: <br />
 </a>  
 
 <a href="https://twitter.com/sharkoska" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 <br />
