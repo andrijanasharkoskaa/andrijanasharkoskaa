@@ -92,7 +92,7 @@ I've had my fair share in building simple-yet-functional apps using HTML, CSS an
 <br/>  
 
 ## Real depiction of my life as an aspiring programmer: 
-<img align='right' src="https://media1.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif?cid=ecf05e47pe3wzbhcxuqdgolcscfaqknmdnqwihhv7ygfjis9&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://media1.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif?cid=ecf05e47pe3wzbhcxuqdgolcscfaqknmdnqwihhv7ygfjis9&rid=giphy.gif&ct=g" width="430" height = "230" align = "center">
 
 
 <br />
