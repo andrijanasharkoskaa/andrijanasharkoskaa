@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Andrijana Sharkoska!  
   
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="230">
 
 <a href="https://twitter.com/sharkoska" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -55,7 +55,7 @@ I've had my fair share in building simple-yet-functional apps using HTML, CSS an
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools🙌  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" width = "40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" width = "40"/>  
@@ -86,7 +86,7 @@ I've had my fair share in building simple-yet-functional apps using HTML, CSS an
   
 
 <br/>  
-## Streak Stats 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrijanasharkoskaa&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 
 <br/>  
