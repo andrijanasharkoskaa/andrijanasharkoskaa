@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Andrijana Sharkoska!  
   
-<img align='right' src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="230">
+<img align='right' src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47pe3wzbhcxuqdgolcscfaqknmdnqwihhv7ygfjis9&rid=giphy.gif&ct=g" width="230">
 
 <a href="https://twitter.com/sharkoska" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
