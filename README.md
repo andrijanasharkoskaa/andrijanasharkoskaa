@@ -22,7 +22,7 @@
 ### Glad to see you here!  
 I’m a front-end developer who is currently learning more about technologies and the IT world. I am part of the SourceMX Academy - Fullstack and I found my passion in the design patterns, web development and the ultimate struggle of incorporating JavaScript into the websites' functionality.
 
-I've had my fair share in building simple-yet-functional apps using HTML, CSS and JavaScript. Currently, I am spending more time in learning React and improving my JavaScript skills. I have found the perfect career for me with just crossing an eye with the JavaScript syntax. It was love at first sight.😍
+I've had my fair share in building simple-yet-functional apps using HTML, CSS and JavaScript. Currently, I am spending more time in learning React and improving my JavaScript skills. I have found the perfect career path for me with just crossing an eye with the JavaScript syntax. It was love at first sight.😍
   
 
 <br/>  
@@ -92,7 +92,7 @@ I've had my fair share in building simple-yet-functional apps using HTML, CSS an
 <br/>  
 
 ## Real depiction of my life as an aspiring programmer: 
-<img align='right' src="https://media1.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif?cid=ecf05e47pe3wzbhcxuqdgolcscfaqknmdnqwihhv7ygfjis9&rid=giphy.gif&ct=g" width="430" height = "230" align = "center">
+<img align='center' src="https://media1.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif?cid=ecf05e47pe3wzbhcxuqdgolcscfaqknmdnqwihhv7ygfjis9&rid=giphy.gif&ct=g" width="430" height = "230">
 
 
 <br />
