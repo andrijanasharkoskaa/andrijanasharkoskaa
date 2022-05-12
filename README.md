@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Andrijana Sharkoska!  
   
-<img align='right' src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47pe3wzbhcxuqdgolcscfaqknmdnqwihhv7ygfjis9&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47pe3wzbhcxuqdgolcscfaqknmdnqwihhv7ygfjis9&rid=giphy.gif&ct=g" width="400" height = "400">
 
 <a href="https://twitter.com/sharkoska" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -90,6 +90,7 @@ I've had my fair share in building simple-yet-functional apps using HTML, CSS an
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrijanasharkoskaa&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 
 <br/>  
+<img align='right' src="https://giphy.com/gifs/scaler-official-cartoon-tom-bug-vrxxqQbyRxYi6scCjT" width="230">
 
 
 <br />
