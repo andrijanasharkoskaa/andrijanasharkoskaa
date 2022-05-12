@@ -28,7 +28,7 @@ I've had my fair share in building simple-yet-functional apps using HTML, CSS an
 <br/>  
 
 
-## Rapidfire  
+## Learning Curve  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on my JavaScript skills.
@@ -86,7 +86,7 @@ I've had my fair share in building simple-yet-functional apps using HTML, CSS an
   
 
 <br/>  
-
+### Github Streak 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrijanasharkoskaa&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 
 <br/>  
