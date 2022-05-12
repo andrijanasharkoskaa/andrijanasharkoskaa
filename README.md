@@ -1,4 +1,4 @@
-## Hello 👋, I'm Andrijana Sharkoska!  
+## Hello 👋, I'm Andrijana!  
   
 <img align='right' src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47pe3wzbhcxuqdgolcscfaqknmdnqwihhv7ygfjis9&rid=giphy.gif&ct=g" width="400" height = "250">
 
