@@ -10,7 +10,22 @@ I’m a front-end developer who is currently learning more about technologies an
 
 I've had my fair share in building simple-yet-functional apps using HTML, CSS and JavaScript. Currently, I am spending more time in learning React and improving my JavaScript skills. I have found the perfect career path for me with just crossing an eye with the JavaScript syntax. It was love at first sight.😍
   
+Connect With Me At: <br />  <br /> 
+<a href="https://twitter.com/sharkoska" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 
+<a href="https://www.linkedin.com/in/andrijana-sharkoska-06a835182/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/a.sh9875/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/andrijana.sharkoskaa/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
+<br />
 <br/>  
 
 
@@ -58,22 +73,7 @@ I've had my fair share in building simple-yet-functional apps using HTML, CSS an
 </div>  
 
 <br/>  
-## Connect With Me At:🙌 <br />  <br /> 
-<a href="https://twitter.com/sharkoska" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://www.linkedin.com/in/andrijana-sharkoska-06a835182/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/a.sh9875/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/andrijana.sharkoskaa/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-<br />
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
